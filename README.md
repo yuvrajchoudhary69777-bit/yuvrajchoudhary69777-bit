@@ -31,6 +31,12 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> 
 </div>
 
+
+<p align="center">
+  <img src="https://gh.crafter.run/yuvrajchoudhary69777-bit?theme=dark&cols=140" alt="GitHub Profile Summary" />
+</p>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yuvrajchoudhary69777-bit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
